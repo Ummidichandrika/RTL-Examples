@@ -1,0 +1,21 @@
+# KERNEL: Starting Test Case 1: Write until Full
+# KERNEL: Writing:  36
+# KERNEL: Writing: 129
+# KERNEL: Writing:   9
+# KERNEL: Writing:  99
+# KERNEL: Writing:  13
+# KERNEL: Writing: 141
+# KERNEL: Writing: 101
+# KERNEL: Writing:  18
+# KERNEL: FIFO is Full as expected.
+# KERNEL: 
+# KERNEL: Starting Test Case 2: Read until Empty
+# KERNEL: Reading:   0
+# KERNEL: Reading:   0
+# KERNEL: Reading:  36
+# KERNEL: Reading: 129
+# KERNEL: Reading:   9
+# KERNEL: Reading:  99
+# KERNEL: Reading:  13
+# KERNEL: Reading: 141
+# KERNEL: FIFO is Empty as expected.
